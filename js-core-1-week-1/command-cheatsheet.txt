@@ -1,0 +1,21 @@
+To make a directory (within the directory you have already)
+mkdir <directory name>
+
+Example
+
+mkdir stuff
+mkdir 
+
+
+To create a file
+
+touch <filename.file extension>
+
+Example
+
+touch index.html
+touch index.css
+touch 
+
+
+
